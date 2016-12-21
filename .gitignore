@@ -1,1 +1,4 @@
 toIgnore.txt
+.DS_Store
+log/
+*.orig
